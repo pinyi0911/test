@@ -1,0 +1,23 @@
+h1{
+    color: rgb(120, 147, 197);
+
+}
+h2{
+    color: rgb(223, 193, 128);
+
+}
+
+h4{
+    color: rgb(223, 193, 128);
+}
+
+a {
+    color:#fff;
+    background-color: rgb(120, 147, 197);
+    padding:6px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: small;
+}
+
+
